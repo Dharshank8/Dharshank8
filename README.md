@@ -60,7 +60,7 @@
 - Developed an application to manage employee information.
 - Supports employee record management.
 - Implements CRUD (Create, Read, Update, Delete) operations.
-- Technologies: Java, SQL.
+- Technologies: Python, SQL.
 
 ---
 
